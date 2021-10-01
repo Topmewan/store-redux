@@ -1,18 +1,36 @@
 * {
-  font-family: "Roboto Light", sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 0;
   margin: 0;
 }
 
 .ui.cards > .card > .image {
-  height:250px;
-  padding:20px;
+  height: 250px;
+  padding: 20px;
   background: #fff;
   margin: auto;
 }
-
-.ui.cards > .card > image > img {
+.ui.cards > .card > .image > img {
   height: 100%;
   max-width: 100%;
   width: auto;
 }
+.ui.cards > .card > .content > .header {
+  height: 48px;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+.ui.cards > .card > .content > .description {
+  height: 36px;
+  margin-bottom: 0px;
+  overflow: hidden;
+}
+.ui.cards > .card .meta.price {
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #333;
+  font-weight: 600;
+}
+
+
+
