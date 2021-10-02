@@ -1,6 +1,6 @@
 # Example
 
-[CLick here](redux-store-by-denya.netlify.app).
+[Click here](https://redux-store-by-denya.netlify.app/).
 
 
 # Getting Started with Create React App
